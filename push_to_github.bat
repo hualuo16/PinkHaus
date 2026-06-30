@@ -1,0 +1,32 @@
+@echo off
+echo ================================
+echo   ?? PinkHaus ? GitHub
+echo ================================
+echo.
+echo ????: https://github.com/hualuo16/cris.git
+echo.
+echo ????????
+git config user.email "hualuo16@users.noreply.github.com"
+git config user.name "hualuo16"
+echo.
+echo ????????
+echo ????????????????? GitHub
+echo.
+echo ???? GitHub...
+git push -u origin main
+echo.
+if "%errorlevel%"=="0" (
+    echo.
+    echo ================================
+    echo    ? ?????
+    echo    ?????????
+    echo    https://github.com/hualuo16/cris
+    echo ================================
+) else (
+    echo.
+    echo ? ??? GitHub???????
+    echo    ???: set HTTPS_PROXY=http://127.0.0.1:7890
+    echo    ???: git push -u origin main
+)
+echo.
+pause
