@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 项目简介
+##  项目简介
 
 PinkHaus 的诞生源于一个观察：消费者在购买护肤品前越来越理性，她们想看到真实评价，但现有的平台要么广告泛滥、要么没有肤质参考维度、要么信息过于碎片化。
 
@@ -43,7 +43,7 @@ React 18 · Vite 5 · React Router v6 · localStorage · Web Speech API
 
 ##  项目文档
 
-- [PRD（产品需求文档）](PinkHaus_PRD.pdf)
+- [PRD（产品需求文档）]([PinkHaus_PRD.pdf](https://github.com/hualuo16/PinkHaus/blob/main/PinkHaus-PRD.pdf))
 - [设计思路文档](PinkHaus_设计思路.md)
 
 ## 📸 产品截图
