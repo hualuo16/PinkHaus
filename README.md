@@ -46,6 +46,15 @@ React 18 · Vite 5 · React Router v6 · localStorage · Web Speech API
 - [PRD（产品需求文档)](PinkHaus-PRD.md)
 - [设计思路文档](PinkHaus_设计思路.md)
 
-## 📸 产品截图
+##  产品截图
 
-*(截图待添加 — 可运行 pnpm dev 后在浏览器查看完整原型)*
+| 页面 | 截图 |
+|------|------|
+| 注册流程 | ![注册](images/onboarding.png) |
+| 社区首页 | ![社区](images/feed.png) |
+| 商品搜索 | ![搜索](images/search.png) |
+| 写评价 | ![评价](images/review.png) |
+| 商品详情 | ![详情](images/product-detail.png) |
+| 个人主页 | ![个人](images/profile.png) |
+
+*(可运行 pnpm dev 后在浏览器查看完整原型)*
